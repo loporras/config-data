@@ -1,7 +1,5 @@
-
-#Aplication Configuration
 server:
-  port: 8099
+  port: 8761
   
 eureka:
   instance:
